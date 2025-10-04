@@ -1,0 +1,5 @@
+yfinance
+pandas
+pandas-gbq
+google-cloud-bigquery
+google-cloud-pubsub
